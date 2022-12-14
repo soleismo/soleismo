@@ -1,6 +1,6 @@
 ### Hi there, I'm Sol 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Soleismo's GitHub stats](https://github-readme-stats.vercel.app/api?username=soleismo)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on a visual novel game project...
 - 🌱 I’m currently learning Java and Python...
